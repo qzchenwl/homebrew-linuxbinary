@@ -1,9 +1,9 @@
 class AndroidStudio < Formula
     desc "The official Android IDE."
     homepage "https://developer.android.com/sdk/"
-    version "1.5.1.0_2456560"
-    url "https://dl.google.com/dl/android/studio/ide-zips/1.5.1.0/android-studio-ide-141.2456560-linux.zip"
-    sha256 "466e01ac99c44685f218cf8dfc621fcc6b1d2c18256d97dbefa377d06410d05c"
+    version "2.3.1.0_3871768"
+    url "https://dl.google.com/dl/android/studio/ide-zips/2.3.1.0/android-studio-ide-162.3871768-linux.zip"
+    sha256 "36520f21678f80298b5df5fe5956db17a5984576f895fdcaa36ab0dbfb408433"
 
     bottle :unneeded
 
