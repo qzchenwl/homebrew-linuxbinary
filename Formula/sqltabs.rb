@@ -3,8 +3,8 @@ class Sqltabs < Formula
     homepage "http://www.sqltabs.com/"
     version "0.12"
 
-    url "http://www.sqltabs.com/download/sqltabs.tar.gz"
-    sha256 "832494d6e6635e0b4c4cde97e1436324a36bbc9deaf37eaa44655388c26d8c42"
+    url "https://github.com/sasha-alias/sqltabs/releases/download/v0.16.0/sqltabs.linux.tar.gz"
+    sha256 "ddfbf8037f2d53783c079247935d5f373f6ab2933ea386055fc38f66ba8c9c77"
 
     bottle :unneeded
 
